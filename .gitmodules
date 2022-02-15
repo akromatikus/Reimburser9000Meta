@@ -1,0 +1,9 @@
+[submodule "reimburser9000front"]
+	path = reimburser9000front
+	url = https://github.com/akromatikus/reimburser9000front.git
+[submodule "Reimburser9000Back"]
+	path = Reimburser9000Back
+	url = https://github.com/akromatikus/Reimburser9000Back
+[submodule "Reimburser9000mobile"]
+	path = Reimburser9000mobile
+	url = https://github.com/akromatikus/Reimburser9000mobile.git
